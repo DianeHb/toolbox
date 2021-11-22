@@ -1,3 +1,4 @@
+import ntlk
 nltk.download('stopwords')
 nltk.download('punkt')
 nltk.download('wordnet')
